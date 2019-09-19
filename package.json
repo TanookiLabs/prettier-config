@@ -1,5 +1,5 @@
 {
-  "name": "prettier-config",
+  "name": "@tanooki/prettier-config",
   "version": "1.0.0",
   "main": "index.json",
   "author": "Peter Schilling <peter@peterschilling.org>",
