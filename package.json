@@ -1,7 +1,9 @@
 {
+  "$schema": "http://json.schemastore.org/package.json",
   "name": "@tanooki/prettier-config",
   "version": "1.0.2",
   "main": "index.json",
   "author": "Peter Schilling <peter@peterschilling.org>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "github:TanookiLabs/prettier-config"
 }
